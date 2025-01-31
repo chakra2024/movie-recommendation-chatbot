@@ -66,7 +66,7 @@ uvicorn api:app --host 0.0.0.0 --port 8000
 
 **Mean Absolute Error (MAE):** Evaluates deviation from actual ratings.
 
-**Precision & Accuracy:** Determines the relevance of recommendations.
+**Precision & Accuracy:** 84% and 75%
 
 **Future Improvements**
 
@@ -79,11 +79,4 @@ Scalability for Streaming Platforms: Deployment on cloud-based architectures for
 Soham Chakraborty
 Vaishnavi Rajasekaran
 
-Advisor
-Prof. Alaa Bhakthi
-
-License
-This project is licensed under the MIT License.
-
-This README provides all necessary details for setting up and using the chatbot effectively. Let me know if you'd like any modifications!
 
