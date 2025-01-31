@@ -39,7 +39,7 @@ Chatbot Interface: Provides real-time interaction and response to user queries.
 
 Prerequisites
 
-Python 3.8+
+Python 3.9
 
 **Required Libraries:**
 
@@ -48,7 +48,7 @@ pip install numpy pandas scikit-learn surprise torch transformers streamlit fast
 
 **Train the Recommendation Model:**
 
-python train_model.py
+python movie_hybrid_final.ipynb
 
 **Run the Chatbot Interface:**
 
